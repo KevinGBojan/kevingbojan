@@ -4,6 +4,14 @@
 
 I'm a self-taught passionate front-end developer.
 
+## Currently working on:
+
+<code><img height="20" src="./Assets/logo.png"></code>
+
+- [10kreader.com](https://www.10kreader.com/), a site to retrieve, read and interact with filings and earning call transcripts of any public U.S. business. Working together with [@Evgastap](https://github.com/Evgastap).
+
+- [compoundingcalculator.net](https://www.compoundingcalculator.net/), a site to visualize your wealth and plan your finances.
+
 **Languages and Tools:**
 <code><img height="20" src="./Assets/html.png"></code>
 <code><img height="20" src="./Assets/css.png"></code>
@@ -13,16 +21,3 @@ I'm a self-taught passionate front-end developer.
 <code><img height="20" src="./Assets/nextjs.png"></code>
 <code><img height="20" src="./Assets/firebase.png"></code>
 <code><img height="20" src="./Assets/nodejs.png"></code>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
