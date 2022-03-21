@@ -6,7 +6,7 @@ I'm a self-taught passionate front-end developer.
 
 ## Currently working on:
 
-<code><img height="20" src="./Assets/logo.png"></code>
+<code><img height="20" src="./Assets/logo.jpg"></code>
 
 - [10kreader.com](https://www.10kreader.com/), a site to retrieve, read and interact with filings and earning call transcripts of any public U.S. business. Working together with [@Evgastap](https://github.com/Evgastap).
 
